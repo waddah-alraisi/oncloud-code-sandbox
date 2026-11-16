@@ -1,0 +1,9 @@
+{
+  "name": "oncloud-code-sandbox",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Test repository for the OnCloud Code Tester and Reviewer agents.",
+  "scripts": {
+    "test": "node --test"
+  }
+}
