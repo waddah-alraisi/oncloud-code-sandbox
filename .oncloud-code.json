@@ -1,0 +1,1 @@
+{"image": "php", "test_map": {"src/**": "tests"}, "test_default": "tests"}
